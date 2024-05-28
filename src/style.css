@@ -1,0 +1,23 @@
+
+.title {
+    text-align: center;
+}
+
+.global-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-inputs {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12px;
+}
+
+th {
+    background-color: #8d8b8d;
+}
+
+td {
+    background-color: lightgray;
+}
